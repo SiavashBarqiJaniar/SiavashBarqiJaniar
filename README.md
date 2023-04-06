@@ -2,7 +2,7 @@
 
 Here I have shared the source codes for the projects I have implemented. Some of them are the codes for the simulation results in my published papers, **Enjoy :)**
 
--  ![](https://user-images.githubusercontent.com/35766596/230447759-7723dfaf-7c90-41df-88c4-04a3825f4bfd.png) [Go To My LinkedIn Page](https://www.linkedin.com/in/siavashbarqijaniar/)
+- ![](https://user-images.githubusercontent.com/35766596/230447759-7723dfaf-7c90-41df-88c4-04a3825f4bfd.png) [Go To My LinkedIn Page](https://www.linkedin.com/in/siavashbarqijaniar/)
 - 🔭 I’m currently focused on machine learning research areas.
 - 🌱 I’m always keen to learn so please leave comments if you had difficulty understanding any part of my codes.
 <!-- - 👯 I’m looking to collaborate on ...
