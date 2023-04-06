@@ -1,6 +1,6 @@
-### Welcome to My Github 👋
+# Welcome to My Github 👋
 
-Here I have shared the source codes for the projects I have implemented. Some of them are the codes for the simulation results in my published papers, ### Enjoy :)
+Here I have shared the source codes for the projects I have implemented. Some of them are the codes for the simulation results in my published papers, **Enjoy :)**
 
 - 🔭 I’m currently focused on machine learning research areas.
 - 🌱 I’m always keen to learn so please leave comments if you had difficulty understanding any part of my codes.
